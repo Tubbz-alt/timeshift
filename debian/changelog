@@ -1,3 +1,48 @@
+timeshift (19.01.0.1) tina; urgency=medium
+
+  [ AlephAlpha ]
+  * update Chinese (zh_CN) translations
+
+  [ rodrigocswm ]
+  * pt-BR update
+  * pt-BR update
+
+  [ Rodrigo Cardoso ]
+  * Remove duplicate translations
+
+  [ Tony George ]
+  * #375 Fix build errors with vala 0.42.5; Remove --threads from makefile;
+
+  [ scootergrisen ]
+  * Update timeshift-da.po
+
+  [ AlephAlpha ]
+  * fix a typo in timeshift-zh_CN.po
+
+  [ pyroxar ]
+  * Updated polish translation.
+
+  [ LukeHan ]
+  * Update timeshift-ko.po
+
+  [ Jurien ]
+  * Update timeshift-nl.po
+
+  [ muzena ]
+  * Fix/Update Croatian language
+
+  [ gogogogi ]
+  * Update timeshift-hr.po
+
+  [ pyroxar ]
+  * Little grammar corrections
+
+  [ Clement Lefebvre ]
+  * Build-dep on libxapp
+  * Move donate button to burger menu
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 10 Jul 2019 15:28:07 +0200
+
 timeshift (19.01) xenial; urgency=medium
 
   * Exclude /snap by default
